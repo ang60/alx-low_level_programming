@@ -7,6 +7,7 @@
 int main(void)
 {
 	int i, e;
+
 	i = 48;
 	e = 48;
 
@@ -33,4 +34,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
- 
