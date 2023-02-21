@@ -1,13 +1,19 @@
-#include <stdio.h>
+#include "main.h"
+int main(void)
 /**
- * main - Entry point
+ * main - Prints putchar.
  *
  * Return: Always 0 (Success)
  */
 
-int main(void)
 {
-	printf("_putchar\n");
+	char [8] = {'p', 'u', 't', 'c', 'h', 'a', 'r', '_'};
+	int b;
 
+	for(b = 0; b < 8; b++)
+	{
+		_putchar(output[b]);
+	}
+	_putchar('\n');
 	return (0);
 }
