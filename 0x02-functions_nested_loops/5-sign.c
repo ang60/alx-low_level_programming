@@ -3,6 +3,8 @@
 /**
  * print_sign - Prints the sign of a number.
  *
+ *@n: is an Ascii value
+ *
  * Return: Always 0 (Success)
  */
 
