@@ -2,7 +2,11 @@
 /**
  * add - adds two integers and returns result.
  *
- * Return: Always 0 (Success)
+ *@a:is number 1
+ *
+ *@b:is number 2
+ *
+ * Return: a + b
  */
 
 int add(int a, int b)
