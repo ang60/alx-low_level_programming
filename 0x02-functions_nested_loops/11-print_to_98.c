@@ -2,6 +2,8 @@
 /**
  * print_to_98 - Prints all natural numbers.
  *
+ *@n: is number to be passed
+ *
  * Return: Always 0 (Success)
  */
 
