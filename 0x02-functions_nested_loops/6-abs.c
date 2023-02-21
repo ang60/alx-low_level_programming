@@ -2,6 +2,8 @@
 /**
  * _abs - computes the absolute value of an integer.
  *
+ *@i: is an ASCII value
+ *
  * Return: Always 0 (Success)
  */
 
