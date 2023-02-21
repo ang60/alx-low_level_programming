@@ -4,15 +4,13 @@
  *
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
-	chary[8] = {'p', 'u', 't', 'c', 'h', 'a', 'r', '_'};
-	int b;
-
-	for(b = 0; b < 8; b++)
+	char [8] = {'p', 'u', 't', 'c', 'h', 'a', 'r', '_'};
+	int a;
+	for(a = 0; a < 8; a++)
 	{
-		_putchar(output[b]);
+		_putchar(output[a]);
 	}
 	_putchar('\n');
 	return (0);
