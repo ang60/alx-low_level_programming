@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	char [8] = {'p', 'u', 't', 'c', 'h', 'a', 'r', '_'};
+	chary[8] = {'p', 'u', 't', 'c', 'h', 'a', 'r', '_'};
 	int b;
 
 	for(b = 0; b < 8; b++)
