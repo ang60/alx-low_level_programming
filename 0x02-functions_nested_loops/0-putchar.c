@@ -6,11 +6,11 @@
  */
 int main(void)
 {
-	char [8] = {'p', 'u', 't', 'c', 'h', 'a', 'r', '_'};
+	char f[8] = {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
 	int a;
-	for(a = 0; a < 8; a++)
+	for (a = 0; a < 8; a++)
 	{
-		_putchar(output[a]);
+		_putchar(p[a]);
 	}
 	_putchar('\n');
 	return (0);
