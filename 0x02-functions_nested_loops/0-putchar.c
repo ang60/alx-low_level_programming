@@ -1,11 +1,11 @@
 #include "main.h"
-int main(void)
 /**
  * main - Prints putchar.
  *
  * Return: Always 0 (Success)
  */
 
+int main(void)
 {
 	char [8] = {'p', 'u', 't', 'c', 'h', 'a', 'r', '_'};
 	int b;
