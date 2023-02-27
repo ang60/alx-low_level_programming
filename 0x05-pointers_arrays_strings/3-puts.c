@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * void_puts - prints a string
+ * _puts - prints a string
  * @str:is a input string
  * Return : no return
  */
