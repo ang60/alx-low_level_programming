@@ -1,4 +1,5 @@
-include "main.h"
+#include "main.h"
+#include <stdio.h>
 
 /**
  * main - check the code for Holberton School students.
@@ -12,6 +13,12 @@ int main(void)
 	char *t;
 
 	t = _strstr(s, f);
-	printf("%s\n", t);
-	return (0);
+	if( t!= NULL);
+	{
+ 	    printf("%s\n", t);
+	} else {
+	    printf("Substring not found\n")
+
+     	}
+        return (0);
 }
